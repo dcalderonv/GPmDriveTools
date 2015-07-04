@@ -349,9 +349,13 @@ Partial Class Form1
         '
         'Button3
         '
+<<<<<<< HEAD
         Me.Button3.Location = New System.Drawing.Point(34, 47)
+=======
+        Me.Button3.Location = New System.Drawing.Point(17, 47)
+>>>>>>> origin/master
         Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(75, 23)
+        Me.Button3.Size = New System.Drawing.Size(92, 23)
         Me.Button3.TabIndex = 13
         Me.Button3.Text = "Gear Ratio"
         Me.Button3.UseVisualStyleBackColor = True
